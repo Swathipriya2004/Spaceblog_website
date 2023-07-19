@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08-Jul-2023, 00:00:12
+    Author     : Windows
+*/
+.lo{
+        width:380px;
+	height:480px;
+	position:relative;
+	margin-left:70px;
+        margin-top: 60px;
+	background:rgba(0,0,0,0.3);
+	padding:10px;
+        overflow: hidden;
+        border-radius: 30px;
+}
+.button
+{
+	width:220px;
+	margin:35px auto;
+	position:relative;
+	box-shadow: 0 0 20px 9px #ff61241f;
+	border-radius: 30px;
+        padding: 10px 24px;
+        background: transparent;
+        font-size: 15px;
+        color: #ffcc66;
+        margin-left: 65px;
+        font-family: cursive;
+}
+.login_signup{
+    color: #29c5f6;
+    
+}
+input#name{
+    width: 300px;
+    border-color: #6F4E37;
+    padding: 9px;
+    border-radius: 15px;
+    background-color: #b7a295;
+    box-shadow: #6F4E37 0px 3px 8px;
